@@ -21,7 +21,7 @@ Welcome to Book Shop! Manage your book collection effortlessly with React.js, No
 
 ## Backend 
 - The backend part is in the server file.
-- The server API is built on NodeJS and MongoDB.
+- The server API is built on NodeJS and MySql.
 - The server API is deployed on Render.
 
 ### Tools Used:
