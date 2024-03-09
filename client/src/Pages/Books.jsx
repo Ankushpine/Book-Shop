@@ -38,12 +38,12 @@ export default function Books() {
       {loading ? (
         <>
         <div className="flex items-center justify-center">
-        <span className="loading loading-infinity size-28 -mb-12 -mt-8  loading-lg"></span>
+        <span className="loading loading-infinity size-28 mb-64 mt-32  loading-lg"></span>
         </div>
         </>
       ) : (
-        false
-      )}
+        
+      <>
 
       <div class=" flex flex-wrap gap-3 items-center justify-center">
         {books.map((value) => (
@@ -88,6 +88,11 @@ export default function Books() {
           <Link to={"/add"}>Add New Book</Link>
         </button>
       </div>
+
+      </>
+
+)}
+
     </>
   );
 }
