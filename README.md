@@ -2,8 +2,6 @@
 
 Welcome to Book Shop! Manage your book collection effortlessly with React.js, Node.js, Express.js, and MySQL. Create, update, and delete books seamlessly with full CRUD functionality. React.js ensures a responsive UI, while Node.js and Express.js power the backend. MySQL stores your data reliably. Dive into Book Shop and revolutionize your book management experience! 🚀📖
 
-### ` Hosted Link ` : [Link](https://pine-book-shop.netlify.app/)
-
 <img src="./image/BookShop.png"  width="750" height="450" >
 
 ## Frontend
